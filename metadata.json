@@ -1,0 +1,37 @@
+{
+  "title": "Singapore EDGE Software Grants and Vendor Prices — November 2026",
+  "publisher": "Shortlist SG",
+  "snapshot_date": "2026-11-12",
+  "version": "2026-11-12-v1",
+  "listing_count": 140,
+  "listing_category_count": 9,
+  "category_reference_count": 41,
+  "dynamics_reseller_count": 6,
+  "license": "Other: Shortlist SG compilation terms; third-party source rights excluded",
+  "original_reference_urls": [
+    "https://shortlistsg.com/edge-grant/caps",
+    "https://shortlistsg.com/erp/microsoft-dynamics-365-singapore"
+  ],
+  "files": [
+    {
+      "name": "software-listings.csv",
+      "sha256": "4e3f34091a764b1fc340f811a36793e82ad8e8f921594f33d3f1c8f8adfde512"
+    },
+    {
+      "name": "category-caps.json",
+      "sha256": "79315f5bf4d76229deb7ccb346d7707a79eb0f30704479fcec4d65ce212555ea"
+    },
+    {
+      "name": "dynamics-365-resellers.json",
+      "sha256": "d44bdc8bd1798b4cf74ace61dfa48902eb09ece68691e25c0b6a49bfa19087a2"
+    },
+    {
+      "name": "README.md",
+      "sha256": "827624a38ce9eb7b94350a68c2eed0b7b9627e370b485264090ba6fe05fe62f6"
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "9359136c8b97a23ff1929e1d74016d571992a99e1c65cd3400160dc4751a847b"
+    }
+  ]
+}
